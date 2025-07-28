@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Sushant 👋</h1>
 
 <p align="center">
-  🎮 Indie Game Developer | 📚 Godot Educator | 🎥 YouTuber<br>
-  I create beginner-friendly tutorials & share open-source projects.
+  🎮 Game Developer | 💻 Software Developer | 📚 Godot Educator<br>
+  I love building things that are fun, meaningful, and easy to learn from.
 </p>
 
 ---
 
-## 🎥 My YouTube Channel: [Mindful Zeta](https://www.youtube.com/@mindfulzeta)
+## 🎥 Godot Game Development Tutorials — [Mindful Zeta](https://www.youtube.com/@mindfulzeta)
 
 <p align="center">
   <a href="https://www.youtube.com/@mindfulzeta" target="_blank">
@@ -15,28 +15,28 @@
   </a>
 </p>
 
-🧠 On **Mindful Zeta**, I post tutorials on:
-- 🌟 Godot engine (2D & 3D)
+🧠 On **Mindful Zeta**, I share:
+- 🌟 Godot engine tutorials (2D & 3D)
 - 🧩 Game mechanics breakdowns
-- 💡 Tips for indie developers and learners
+- 💡 Insights for learners and devs who love creativity
 
 ---
 
 ## 🚀 What You’ll Find Here
 
-📁 Open-source game projects  
-📜 Clean and beginner-friendly GDScript  
-🎯 Practical tutorials focused on learning by doing  
-✨ Occasional experiments in AI + Games
+📁 Open-source game projects and mini engines  
+🛠️ Tools and scripts made with Python & GDScript  
+🎯 Clean, beginner-friendly code for real-world learning  
+🧪 Side projects combining AI & games  
 
 ---
 
-## 💬 Let’s Connect
+## 💬 About Me
 
-- 📺 YouTube: [Mindful Zeta](https://www.youtube.com/@mindfulzeta)
-- 🕹️ Currently exploring: Puzzle games & AI-driven gameplay
-- 🌱 Always learning and sharing along the way
+- 👨‍💻 I'm a software developer passionate about creative tools, games, and learning experiences.
+- 🎓 Exploring intersections of AI, interaction, and education.
+- 🌱 Currently learning: game design patterns & procedural generation.
 
 ---
 
-Thanks for stopping by — feel free to explore my repos and learn with me! 🌱
+Thanks for visiting — feel free to explore my repos and build along with me! 🌿
